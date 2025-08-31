@@ -54,7 +54,6 @@ Below is a high-level schematic representation:
 - Portable user interfaces with logging capability
 
 ## Acknowledgments
-- Hardware design and documentation by Andrew Lopez  
 - Enclosure design assistance by Julian ([@3D-ish](https://github.com/3D-ish))  
 - Thanks to mentors and peers for guidance and feedback  
 

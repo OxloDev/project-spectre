@@ -1,4 +1,4 @@
-# Oxlo Project Spectre
+# Project Spectre
 
 <p align="center">
   <img src="images/device_front.jpg" alt="Device Front" width="600">

@@ -5,11 +5,7 @@
 </p>
 
 ## Overview
-Oxlo Project Spectre is a custom-built, portable hardware platform.
-  
-It integrates a 2.8-inch TFT touchscreen (240x320), resistive touch input, microSD storage, audio output,  
-and USB programming into a 3D-printed enclosure. The platform is designed as an independent, open hardware  
-project for wireless research, embedded education, and rapid prototyping.
+Project Spectre is a custom PCB hardware platform built around the ESP32 dual-core SoC. The board integrates a 2.8-inch TFT touchscreen, resistive touch input, audio output, microSD storage, and USB programming into a compact, portable design. Combined with a 3D-printed enclosure, it creates a self-contained system for wireless security research, embedded education, and rapid prototyping.
 
 ## Key Features
 - ESP32 dual-core SoC (up to 240 MHz, Wi-Fi 802.11 b/g/n, Bluetooth v4.2 BR/EDR + BLE)
